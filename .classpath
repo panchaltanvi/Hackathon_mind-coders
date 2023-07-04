@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Parth/EDELWEISS_Code/feed-play-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/sqlite-jdbc-3.42.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/commons-math3-3.0/commons-math3-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/commons-math3-3.0/commons-math3-3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/commons-math3-3.0/commons-math3-3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/opencsv-5.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/commons-lang3-3.0/commons-lang3-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/commons-lang3-3.0/commons-lang3-3.0-tests.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
